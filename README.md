@@ -1,1 +1,1 @@
-# DeluxeMenu-s-Gui-s
+# DeluxeMenus Guis
