@@ -1,0 +1,34 @@
+# DeluxeMenus 1.14.0-Release main configuration file
+#
+# A full wiki on how to use this plugin can be found at:
+# https://wiki.helpch.at/clips-plugins/deluxemenus
+
+debug: HIGHEST
+check_updates: true
+gui_menus:
+  beltop_menu:
+    file: beltop-gui.yml
+  statistics_gui:
+    file: statistics.yml
+  stats_menu:
+    file: stats_menu.yml
+  teams_gui:
+    file: teams_gui.yml
+  social_gui:
+    file: social.yml
+  voting_menu:
+    file: voting_menu.yml
+  ranks_menu:
+    file: ranks.yml
+  rules_menu:
+    file: rules.yml
+  guide_menu:
+    file: guide.yml
+  info_menu:
+    file: informations.yml
+  commands_menu:
+    file: commands.yml
+  warp_menu:
+    file: warp.yml
+  rtp_menu:
+    file: rtp.yml
