@@ -6,7 +6,7 @@
 debug: HIGHEST
 check_updates: true
 gui_menus:
-  beltop_menu:
+  baltop_menu:
     file: beltop-gui.yml
   statistics_gui:
     file: statistics.yml
@@ -32,3 +32,5 @@ gui_menus:
     file: warp.yml
   rtp_menu:
     file: rtp.yml
+  updates_menu:
+    file: updates.yml
