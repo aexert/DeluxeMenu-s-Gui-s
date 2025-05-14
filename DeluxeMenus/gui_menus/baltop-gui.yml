@@ -2,7 +2,6 @@ menu_title: '&#6d0af7&lʙᴀʟᴀɴᴄᴇ ᴛᴏᴘ'
 open_command:
   - balancetop
   - btop
-  - b
 open_commands:
   - "[message] &8[&bʙᴛ&8] &f sᴄᴀɴɴɪɴɢ.."
   - "[sound] UI_TOAST_IN"
