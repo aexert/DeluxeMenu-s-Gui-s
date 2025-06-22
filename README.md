@@ -15,4 +15,4 @@ A collection of beautifully designed, ready-to-use GUI menus for DeluxeMenus (Mi
 2. Configure permissions and commands as needed  
 3. Open menus via command or action triggers  
 
-**Contributions welcome!** Submit your own GUI designs.  
+**Contributions welcome!** Submit your own GUI designs
